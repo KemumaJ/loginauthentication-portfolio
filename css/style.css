@@ -1,0 +1,19 @@
+h2{
+    background-color: darkgreen;
+    padding: 30px 40px;
+    margin: 10px 30px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+hr{
+    margin: 10px -20px;
+    border: 0;
+    border-top: 1px solid #ffff;
+    margin-bottom: 40px;
+}
+.container{
+    width: 900px;
+    height: 610px;
+    margin: 35px auto;
+    font-family: Times New Roman;
+}
